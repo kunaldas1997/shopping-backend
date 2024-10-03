@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\c#\\proj1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|d:\\codes\\c#\\proj1\\src\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|solutionrelative:src\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|d:\\codes\\c#\\proj1\\src\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|solutionrelative:src\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|d:\\codes\\c#\\proj1\\src\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|solutionrelative:src\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|d:\\codes\\c#\\proj1\\src\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|solutionrelative:src\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|d:\\codes\\c#\\proj1\\src\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|solutionrelative:src\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|d:\\codes\\c#\\proj1\\src\\controller\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|solutionrelative:src\\controller\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|d:\\codes\\c#\\proj1\\src\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|solutionrelative:src\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|d:\\codes\\c#\\proj1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|d:\\codes\\c#\\proj1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95396032-3055-436D-B26C-B0D49E7E0436}|proj1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Codes\\c#\\proj1\\src\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\UserService.cs",
+              "ToolTip": "D:\\Codes\\c#\\proj1\\src\\Services\\UserService.cs",
+              "RelativeToolTip": "src\\Services\\UserService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwIoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:37:28.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Codes\\c#\\proj1\\src\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Controller\\UserController.cs",
+              "ToolTip": "D:\\Codes\\c#\\proj1\\src\\Controller\\UserController.cs",
+              "RelativeToolTip": "src\\Controller\\UserController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:37:03.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "D:\\Codes\\c#\\proj1\\src\\Controller\\SellerController.cs",
+              "RelativeDocumentMoniker": "src\\Controller\\SellerController.cs",
+              "ToolTip": "D:\\Codes\\c#\\proj1\\src\\Controller\\SellerController.cs",
+              "RelativeToolTip": "src\\Controller\\SellerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:37:18.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "db.cs",
+              "DocumentMoniker": "D:\\Codes\\c#\\proj1\\src\\Models\\db.cs",
+              "RelativeDocumentMoniker": "src\\Models\\db.cs",
+              "ToolTip": "D:\\Codes\\c#\\proj1\\src\\Models\\db.cs",
+              "RelativeToolTip": "src\\Models\\db.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAcwN0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:56:42.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "connection.cs",
+              "DocumentMoniker": "D:\\Codes\\c#\\proj1\\src\\Models\\connection.cs",
+              "RelativeDocumentMoniker": "src\\Models\\connection.cs",
+              "ToolTip": "D:\\Codes\\c#\\proj1\\src\\Models\\connection.cs",
+              "RelativeToolTip": "src\\Models\\connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:25:30.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Codes\\c#\\proj1\\src\\Controller\\OrderController.cs",
+              "RelativeDocumentMoniker": "src\\Controller\\OrderController.cs",
+              "ToolTip": "D:\\Codes\\c#\\proj1\\src\\Controller\\OrderController.cs",
+              "RelativeToolTip": "src\\Controller\\OrderController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:37:46.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Codes\\c#\\proj1\\src\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Codes\\c#\\proj1\\src\\Services\\OrderService.cs",
+              "RelativeToolTip": "src\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:44:27.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Codes\\c#\\proj1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Codes\\c#\\proj1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T09:20:59.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codes\\c#\\proj1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Codes\\c#\\proj1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:56:07.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

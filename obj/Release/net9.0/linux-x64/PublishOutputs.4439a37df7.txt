@@ -1,0 +1,5 @@
+D:\Codes\c#\proj1\obj\Release\net9.0\linux-x64\PubTmp\Out\appsettings.Development.json
+D:\Codes\c#\proj1\obj\Release\net9.0\linux-x64\PubTmp\Out\appsettings.json
+D:\Codes\c#\proj1\obj\Release\net9.0\linux-x64\PubTmp\Out\proj1.pdb
+D:\Codes\c#\proj1\obj\Release\net9.0\linux-x64\PubTmp\Out\libmongocrypt.so
+D:\Codes\c#\proj1\obj\Release\net9.0\linux-x64\PubTmp\Out\proj1

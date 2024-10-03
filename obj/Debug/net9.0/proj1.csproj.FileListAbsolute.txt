@@ -1,0 +1,207 @@
+D:\Codes\c#\proj1\bin\Debug\net9.0\appsettings.Development.json
+D:\Codes\c#\proj1\bin\Debug\net9.0\appsettings.json
+D:\Codes\c#\proj1\bin\Debug\net9.0\proj1.staticwebassets.endpoints.json
+D:\Codes\c#\proj1\bin\Debug\net9.0\proj1.exe
+D:\Codes\c#\proj1\bin\Debug\net9.0\proj1.deps.json
+D:\Codes\c#\proj1\bin\Debug\net9.0\proj1.runtimeconfig.json
+D:\Codes\c#\proj1\bin\Debug\net9.0\proj1.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\proj1.pdb
+D:\Codes\c#\proj1\bin\Debug\net9.0\AWSSDK.Core.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\DnsClient.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Google.Api.Gax.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Google.Api.Gax.Rest.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.Auth.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.Core.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.Storage.v1.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Google.Cloud.Storage.V1.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Bson.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Driver.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\SharpCompress.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Snappier.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\System.CodeDom.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\System.Management.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\ZstdSharp.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+D:\Codes\c#\proj1\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Codes\c#\proj1\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+D:\Codes\c#\proj1\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.csproj.AssemblyReference.cache
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.AssemblyInfoInputs.cache
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.AssemblyInfo.cs
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.csproj.CoreCompileInputs.cache
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.MvcApplicationPartsAssemblyInfo.cs
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.MvcApplicationPartsAssemblyInfo.cache
+D:\Codes\c#\proj1\obj\Debug\net9.0\scopedcss\bundle\proj1.styles.css
+D:\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.build.json
+D:\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.development.json
+D:\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.proj1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.proj1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.build.proj1.props
+D:\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.proj1.props
+D:\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.proj1.props
+D:\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.csproj.Up2Date
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.dll
+D:\Codes\c#\proj1\obj\Debug\net9.0\refint\proj1.dll
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.pdb
+D:\Codes\c#\proj1\obj\Debug\net9.0\proj1.genruntimeconfig.cache
+D:\Codes\c#\proj1\obj\Debug\net9.0\ref\proj1.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\appsettings.Development.json
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\appsettings.json
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.staticwebassets.endpoints.json
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.exe
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.deps.json
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.runtimeconfig.json
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.pdb
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\AWSSDK.Core.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\DnsClient.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Api.Gax.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Api.Gax.Rest.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.Auth.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.Core.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.Storage.v1.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Cloud.Storage.V1.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Bson.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Driver.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Newtonsoft.Json.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\SharpCompress.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Snappier.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\System.CodeDom.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\System.Management.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\ZstdSharp.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.csproj.AssemblyReference.cache
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.AssemblyInfoInputs.cache
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.AssemblyInfo.cs
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.csproj.CoreCompileInputs.cache
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.MvcApplicationPartsAssemblyInfo.cs
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.MvcApplicationPartsAssemblyInfo.cache
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\scopedcss\bundle\proj1.styles.css
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.build.json
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.development.json
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.proj1.Microsoft.AspNetCore.StaticWebAssets.props
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.proj1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.build.proj1.props
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.proj1.props
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.proj1.props
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.pack.json
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.csproj.Up2Date
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\refint\proj1.dll
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.pdb
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.genruntimeconfig.cache
+\\192.168.0.1\g\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\ref\proj1.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\appsettings.Development.json
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\appsettings.json
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.staticwebassets.endpoints.json
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.exe
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.deps.json
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.runtimeconfig.json
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\proj1.pdb
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\AWSSDK.Core.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\DnsClient.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Api.Gax.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Api.Gax.Rest.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.Auth.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.Core.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Apis.Storage.v1.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Google.Cloud.Storage.V1.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Bson.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Driver.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\SharpCompress.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Snappier.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\System.CodeDom.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\System.Management.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\ZstdSharp.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+E:\SSD D Drive\Codes\c#\proj1\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.csproj.AssemblyReference.cache
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.AssemblyInfoInputs.cache
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.AssemblyInfo.cs
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.csproj.CoreCompileInputs.cache
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.MvcApplicationPartsAssemblyInfo.cs
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.MvcApplicationPartsAssemblyInfo.cache
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\scopedcss\bundle\proj1.styles.css
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.build.json
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.development.json
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.proj1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.proj1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.build.proj1.props
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.proj1.props
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.proj1.props
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\staticwebassets.pack.json
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.csproj.Up2Date
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.dll
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\refint\proj1.dll
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.pdb
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\proj1.genruntimeconfig.cache
+E:\SSD D Drive\Codes\c#\proj1\obj\Debug\net9.0\ref\proj1.dll
